@@ -11,3 +11,10 @@
 .hide-please{
     display:none;
 }
+.gimme-background{
+    background: #ccc;
+    padding: 20px;
+}
+.warning{
+    border: 1px solid #F00 !important;
+}
